@@ -4,7 +4,7 @@
       {
         "label": "LaLiga 1",
         "streams": [
-          { "hash": "c1959a27edb0b94c50a70d4312f1c", "quality": "1080p", "img": "img/laliga_inverted.png" },
+          { "hash": "c1959a27edb0b94c5005a2dea93b7a70d4312f1c", "quality": "1080p", "img": "img/laliga_inverted.png" },
           { "hash": "b4585c27169685d34bfdf43471f0603c8200cff6", "quality": "1080p", "img": "img/laliga_inverted.png" },
           { "hash": "52b680be2991d1d7d558a9cbcae1652855d2998f", "quality": "1080p", "img": "img/laliga_inverted.png" },
           { "hash": "afd30812a8a51f55e0f26bfb27af488e669149b4", "quality": "1080p", "img": "img/laliga_inverted.png" },
