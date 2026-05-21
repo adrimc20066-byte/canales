@@ -4,18 +4,18 @@
       {
         "label": "LaLiga 1",
         "streams": [
-          { "hash": "c1959a27edb0b94c5005a2dea93b7a70d4312f1c", "quality": "1080p", "img": "img/laliga_inverted.png" },
-          { "hash": "b4585c27169685d34bfdf43471f0603c8200cff6", "quality": "1080p", "img": "img/laliga_inverted.png" },
-          { "hash": "52b680be2991d1d7d558a9cbcae1652855d2998f", "quality": "1080p", "img": "img/laliga_inverted.png" },
-          { "hash": "afd30812a8a51f55e0f26bfb27af488e669149b4", "quality": "1080p", "img": "img/laliga_inverted.png" },
-          { "hash": "2e0bfa2b966dab3aa3d3f3b5b6d04014b3ed1c3f", "quality": "720p",  "img": "img/laliga_inverted.png" }
+          { "hash": "c1959a27edb0b94c5005a2dea93b7a70d4312f1c", "quality": "1080p", "img": "laliga_inverted.png" },
+          { "hash": "b4585c27169685d34bfdf43471f0603c8200cff6", "quality": "1080p", "img": "laliga_inverted.png" },
+          { "hash": "52b680be2991d1d7d558a9cbcae1652855d2998f", "quality": "1080p", "img": "laliga_inverted.png" },
+          { "hash": "afd30812a8a51f55e0f26bfb27af488e669149b4", "quality": "1080p", "img": "laliga_inverted.png" },
+          { "hash": "2e0bfa2b966dab3aa3d3f3b5b6d04014b3ed1c3f", "quality": "720p",  "img": "laliga_inverted.png" }
         ]
       },
       {
         "label": "LaLiga 2",
         "streams": [
-          { "hash": "7daa4368176694ca4ed46f44f006b6181dbc6bd7", "quality": "1080p", "img": "img/laliga_inverted.png" },
-          { "hash": "b988546c2e0d686f6e1fc954a4207596f4316275", "quality": "1080p", "img": "img/laliga_inverted.png" }
+          { "hash": "7daa4368176694ca4ed46f44f006b6181dbc6bd7", "quality": "1080p", "img": "laliga_inverted.png" },
+          { "hash": "b988546c2e0d686f6e1fc954a4207596f4316275", "quality": "1080p", "img": "laliga_inverted.png" }
         ]
       }
     ]
@@ -25,19 +25,19 @@
       {
         "label": "Liga de Campeones",
         "streams": [
-          { "hash": "8c1c3eae077f3a786ed2f0a426197ea93fdf7373", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "1098ab7e7c4aa3650cc08325313ca2473230f965", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "32cd9fcaf7702abd27e6f89f1c48fbe958855f8c", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "73ea1232c986b69e21b9223c6872070bba0a2500", "quality": "720p",  "img": "img/lcampeones_inverted.png" }
+          { "hash": "8c1c3eae077f3a786ed2f0a426197ea93fdf7373", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "1098ab7e7c4aa3650cc08325313ca2473230f965", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "32cd9fcaf7702abd27e6f89f1c48fbe958855f8c", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "73ea1232c986b69e21b9223c6872070bba0a2500", "quality": "720p",  "img": "lcampeones_inverted.png" }
         ]
       },
       {
         "label": "Liga de Campeones 2",
         "streams": [
-          { "hash": "82bafc378673bcb35f4b72be6e4abfd24accb665", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "9e37dcb141318738fb2f7e3bc6c96581bfb57131", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "5194ca18e39f8d538106ac9f3db1f6d7c7cdf72a", "quality": "1080p", "img": "img/lcampeones_inverted.png" },
-          { "hash": "849aaa92450b49594aa9ec773a6860769fcc90d9", "quality": "1080p", "img": "img/lcampeones_inverted.png" }
+          { "hash": "82bafc378673bcb35f4b72be6e4abfd24accb665", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "9e37dcb141318738fb2f7e3bc6c96581bfb57131", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "5194ca18e39f8d538106ac9f3db1f6d7c7cdf72a", "quality": "1080p", "img": "lcampeones_inverted.png" },
+          { "hash": "849aaa92450b49594aa9ec773a6860769fcc90d9", "quality": "1080p", "img": "lcampeones_inverted.png" }
         ]
       }
     ]
@@ -47,16 +47,16 @@
       {
         "label": "DAZN",
         "streams": [
-          { "hash": "8a25653a2f774f4ae1062d38a30dcd714d304a3a", "quality": "FHD", "img": "img/dazn_inverted.png" },
-          { "hash": "32389f58bf27f1423a9dd6a39f166a6ca7b54ac6", "quality": "FHD", "img": "img/dazn_inverted.png" },
-          { "hash": "a02bd40d9cdc275d76cd609b75674f8099a55a40", "quality": "HD",  "img": "img/dazn_inverted.png" }
+          { "hash": "8a25653a2f774f4ae1062d38a30dcd714d304a3a", "quality": "FHD", "img": "dazn_inverted.png" },
+          { "hash": "32389f58bf27f1423a9dd6a39f166a6ca7b54ac6", "quality": "FHD", "img": "dazn_inverted.png" },
+          { "hash": "a02bd40d9cdc275d76cd609b75674f8099a55a40", "quality": "HD",  "img": "dazn_inverted.png" }
         ]
       },
       {
         "label": "DAZN 2",
         "streams": [
-          { "hash": "725760009950ad23ed444de76c0f5a98c536620c", "quality": "FHD", "img": "img/dazn_inverted.png" },
-          { "hash": "4e8f13dfa3a7719ce7c0e381cce2c58afc5ce61f", "quality": "FHD", "img": "img/dazn_inverted.png" }
+          { "hash": "725760009950ad23ed444de76c0f5a98c536620c", "quality": "FHD", "img": "dazn_inverted.png" },
+          { "hash": "4e8f13dfa3a7719ce7c0e381cce2c58afc5ce61f", "quality": "FHD", "img": "dazn_inverted.png" }
         ]
       }
     ]
@@ -66,9 +66,9 @@
       {
         "label": "F1 Streams",
         "streams": [
-          { "hash": "6d325cda6ed591647ef5e91edd043147bce8be30", "quality": "FHD", "img": "img/f1_inverted.png" },
-          { "hash": "d2087e61e8617208fd3992f460ee2edb9e05d95b", "quality": "FHD", "img": "img/f1_inverted.png" },
-          { "hash": "eb85b6eddb906e9745384586c02b5f061bf3ea77", "quality": "FHD", "img": "img/f1_inverted.png" }
+          { "hash": "6d325cda6ed591647ef5e91edd043147bce8be30", "quality": "FHD", "img": "f1_inverted.png" },
+          { "hash": "d2087e61e8617208fd3992f460ee2edb9e05d95b", "quality": "FHD", "img": "f1_inverted.png" },
+          { "hash": "eb85b6eddb906e9745384586c02b5f061bf3ea77", "quality": "FHD", "img": "f1_inverted.png" }
         ]
       }
     ]
@@ -78,9 +78,9 @@
       {
         "label": "Moto GP Streams",
         "streams": [
-          { "hash": "e91e5f966975a255d09625ef60f47973e105bd21", "quality": "FHD", "img": "img/gp_inverted.png" },
-          { "hash": "9d2a990412ad9d32ab7f4d7878e17c309859dae1", "quality": "FHD", "img": "img/gp_inverted.png" },
-          { "hash": "e86b691a9cb2b39f15402840860112ba4de6f7e3", "quality": "FHD", "img": "img/gp_inverted.png" }
+          { "hash": "e91e5f966975a255d09625ef60f47973e105bd21", "quality": "FHD", "img": "gp_inverted.png" },
+          { "hash": "9d2a990412ad9d32ab7f4d7878e17c309859dae1", "quality": "FHD", "img": "gp_inverted.png" },
+          { "hash": "e86b691a9cb2b39f15402840860112ba4de6f7e3", "quality": "FHD", "img": "gp_inverted.png" }
         ]
       }
     ]
@@ -90,10 +90,10 @@
       {
         "label": "Canales",
         "streams": [
-          { "hash": "dd219b0d395b35613ff98974ce4bfd8faf5f4bc0", "quality": "FHD", "img": "img/movistar_inverted.png" },
-          { "hash": "b1ab6b68debdf5a4c3e6bbf726a421aba64ae240", "quality": "FHD", "img": "img/movistar_inverted.png" },
-          { "hash": "603aff9cb59ce9d8acf2611b1d7d454c3ede30b5", "quality": "HD",  "img": "img/movistar_inverted.png" },
-          { "hash": "2b4e7c6d292ede4d94a86953061252e8c48febcb", "quality": "HD",  "img": "img/movistar_inverted.png" }
+          { "hash": "dd219b0d395b35613ff98974ce4bfd8faf5f4bc0", "quality": "FHD", "img": "movistar_inverted.png" },
+          { "hash": "b1ab6b68debdf5a4c3e6bbf726a421aba64ae240", "quality": "FHD", "img": "movistar_inverted.png" },
+          { "hash": "603aff9cb59ce9d8acf2611b1d7d454c3ede30b5", "quality": "HD",  "img": "movistar_inverted.png" },
+          { "hash": "2b4e7c6d292ede4d94a86953061252e8c48febcb", "quality": "HD",  "img": "movistar_inverted.png" }
         ]
       }
     ]
